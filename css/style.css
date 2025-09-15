@@ -1706,3 +1706,9 @@ section.banner-blog .banner-caption h1 {
   font-size: 26px;
   padding: 30px 0;
 }
+
+@media (max-width: 450px) {
+  .banner .banner-caption {
+    padding-right: 30px;
+  }
+}
