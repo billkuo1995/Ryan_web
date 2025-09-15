@@ -1701,3 +1701,8 @@ section.banner-blog .banner-caption h1 {
 .about-button.setting {
   letter-spacing: 5px;
 }
+
+.img_setting .title_img_inner {
+  font-size: 26px;
+  padding: 30px 0;
+}
